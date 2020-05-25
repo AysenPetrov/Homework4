@@ -5,7 +5,6 @@ public class Homework4 {
     public static void main(String[] args) {
 
         boolean debug = false;
-2
         if (debug) {
             testCheckCircleWin(testMap5x5,5,4);
             //testCheckCircleWin(testMap,3,3);
